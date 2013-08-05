@@ -40,27 +40,7 @@ Interpreted language. This may be slower than compiled languages.
 Dynamically typed language. 
     Can make execution slower especially on devices with limited processing
     power.  Eg: Mobile 
-    Undeclared variables are caught at runtime errors.
-	
-
-Dive In
-------- 
-Interactive vs Source Codes
-
-Datatypes
-	- Integer, Float, String, List, Tuple, Dictionary, None
-	
-Functions
-    - Declaration
-    - Calculate Avarage
-
-Classes
-    - Declaration
-    - Math Tools
-    
-Libraries
-    - Install libraries
-        
+    Undeclared variables are caught at runtime errors. 
         
 
 References

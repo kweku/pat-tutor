@@ -4,7 +4,7 @@ A comprehensive tutorial on the Python programming language. This tutorial
 covers three main groups of users:
 
 #. Beginners
-#. Intermediary
+#. Intermediate
 #. Advanced
 
 
