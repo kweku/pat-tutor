@@ -1,0 +1,16 @@
+.settings/
+.pydevproject
+.DS_Store
+.settings
+.project
+.svn
+*.pyc
+*.dmp
+*.log
+*.db 
+*.bat
+*.komodoproject
+*.zip
+
+tmp/
+_build
