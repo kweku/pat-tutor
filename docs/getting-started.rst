@@ -1,5 +1,6 @@
 Getting Started
-===============
+=============== 
+
 A comprehensive tutorial on the Python programming language. This tutorial
 covers three main groups of users:
 
@@ -9,7 +10,7 @@ covers three main groups of users:
 
 
 Building the docs
-------------------
+***************** 
 The documentation is hosted online. If you want to build it, you will need the
 following:
 
@@ -19,17 +20,18 @@ following:
 
 
 Tools needed
-------------
+************
+
 These are the tools needed to follow the examples in the tutorials.
 
 **Required** 
 
-*   | Name:       Python
+*   | **Name:**   **Python**
     | Version:    2.7
     | URL:        http://www.python.org/download/releases/2.7.5/
     | Purpose:    Programming Language
     
-*   | Name:       Git 
+*   | **Name:**   **Git** 
     | Version:    1.8.3.4
     | URL:        http://git-scm.com/
     | Purpose:    Source Control
@@ -37,13 +39,34 @@ These are the tools needed to follow the examples in the tutorials.
 
 **Optional** 
 
-*   | Name:       Aptana Studio
-    | Version:    3.4.0
-    | URL:        http://www.aptana.com/products/studio3/download
-    | Purpose:    Editor
+*   | **Name:**   **Notepad ++**
+    | Version:    6.4.4
+    | URL:        http://notepad-plus-plus.org/
+    | Purpose:    Editor  
 
-*   | Name:       Komodo Edit
-    | Version:    7.1
-    | URL:        http://www.activestate.com/komodo-ide/downloads
-    | Purpose:    Editor
+
+Goal #1: Install Python
+-----------------------
+This section has instructions for installing Python and running Python from a command prompt. 
+
+* :doc:`_include/getting-started/setup-windows`
+* :doc:`_include/getting-started/setup-osx`
+* :doc:`_include/getting-started/setup-linux`
+
+
+Goal #2: Prepare a text editor
+------------------------------
+This section has instructions for installing Python and running Python from a command prompt. 
+
+* :doc:`_include/getting-started/editor-windows`
+* :doc:`_include/getting-started/editor-osx`
+* :doc:`_include/getting-started/editor-linux` 
+
+Goal #3: Practice starting and exiting Python
+---------------------------------------------
+This section has instructions for installing Python and running Python from a command prompt. 
+
+* :doc:`_include/getting-started/start-windows`
+* :doc:`_include/getting-started/start-osx`
+* :doc:`_include/getting-started/start-linux` 
     

@@ -5,7 +5,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-
+   
+   meet-python
    getting-started
-   meet-python 
+    
+   
    
